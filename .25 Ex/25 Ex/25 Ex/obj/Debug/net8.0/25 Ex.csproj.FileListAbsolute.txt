@@ -1,0 +1,15 @@
+D:\.Файлы по Работе\Шарагa\.Рассоха\30 tasks\.25 Ex\25 Ex\25 Ex\bin\Debug\net8.0\25 Ex.exe
+D:\.Файлы по Работе\Шарагa\.Рассоха\30 tasks\.25 Ex\25 Ex\25 Ex\bin\Debug\net8.0\25 Ex.deps.json
+D:\.Файлы по Работе\Шарагa\.Рассоха\30 tasks\.25 Ex\25 Ex\25 Ex\bin\Debug\net8.0\25 Ex.runtimeconfig.json
+D:\.Файлы по Работе\Шарагa\.Рассоха\30 tasks\.25 Ex\25 Ex\25 Ex\bin\Debug\net8.0\25 Ex.dll
+D:\.Файлы по Работе\Шарагa\.Рассоха\30 tasks\.25 Ex\25 Ex\25 Ex\bin\Debug\net8.0\25 Ex.pdb
+D:\.Файлы по Работе\Шарагa\.Рассоха\30 tasks\.25 Ex\25 Ex\25 Ex\obj\Debug\net8.0\25 Ex.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Файлы по Работе\Шарагa\.Рассоха\30 tasks\.25 Ex\25 Ex\25 Ex\obj\Debug\net8.0\25 Ex.AssemblyInfoInputs.cache
+D:\.Файлы по Работе\Шарагa\.Рассоха\30 tasks\.25 Ex\25 Ex\25 Ex\obj\Debug\net8.0\25 Ex.AssemblyInfo.cs
+D:\.Файлы по Работе\Шарагa\.Рассоха\30 tasks\.25 Ex\25 Ex\25 Ex\obj\Debug\net8.0\25 Ex.csproj.CoreCompileInputs.cache
+D:\.Файлы по Работе\Шарагa\.Рассоха\30 tasks\.25 Ex\25 Ex\25 Ex\obj\Debug\net8.0\25 Ex.sourcelink.json
+D:\.Файлы по Работе\Шарагa\.Рассоха\30 tasks\.25 Ex\25 Ex\25 Ex\obj\Debug\net8.0\25 Ex.dll
+D:\.Файлы по Работе\Шарагa\.Рассоха\30 tasks\.25 Ex\25 Ex\25 Ex\obj\Debug\net8.0\refint\25 Ex.dll
+D:\.Файлы по Работе\Шарагa\.Рассоха\30 tasks\.25 Ex\25 Ex\25 Ex\obj\Debug\net8.0\25 Ex.pdb
+D:\.Файлы по Работе\Шарагa\.Рассоха\30 tasks\.25 Ex\25 Ex\25 Ex\obj\Debug\net8.0\25 Ex.genruntimeconfig.cache
+D:\.Файлы по Работе\Шарагa\.Рассоха\30 tasks\.25 Ex\25 Ex\25 Ex\obj\Debug\net8.0\ref\25 Ex.dll
